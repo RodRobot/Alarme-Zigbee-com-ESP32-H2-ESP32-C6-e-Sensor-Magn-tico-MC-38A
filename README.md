@@ -34,6 +34,7 @@ O objetivo é demonstrar, na prática, como utilizar a comunicação Zigbee em p
 | Buzzer ativo | Alarme sonoro |
 | LED | Sinalização visual |
 | Resistores | Limitação de corrente dos LEDs |
+| Transistor BC337 | Para acionar o buzzer |
 | Protoboard e jumpers | Montagem do circuito |
 
 ## 🔌 Ligações dos componentes
