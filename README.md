@@ -62,7 +62,7 @@ Quando a porta está fechada, o contato conecta a entrada ao GND. Ao abrir a por
 
 | Componente | GPIO |
 |---|---|
-| Buzzer ativo | GPIO 13 |
+| Base transitor BC337 | GPIO 13 |
 | LED indicador | GPIO 12 |
 
 O buzzer funciona de maneira intermitente, alternando entre ligado e desligado para produzir um sinal sonoro semelhante a uma sirene.
