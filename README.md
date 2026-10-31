@@ -161,19 +161,6 @@ O projeto permite observar a comunicação entre dois microcontroladores sem a n
 - Buzzer do ESP32-C6 acionado.
 - LED do ESP32-C6 piscando.
 
-## 🚀 Possibilidades de expansão
-
-O projeto pode ser ampliado com novas funcionalidades:
-
-- Adicionar outros sensores magnéticos.
-- Monitorar várias portas e janelas.
-- Desenvolver uma rede com vários dispositivos Zigbee.
-- Adicionar roteadores Zigbee para ampliar a cobertura.
-- Implementar modos de baixo consumo para alimentação por bateria.
-- Desenvolver uma integração com Wi-Fi.
-- Criar um gateway para enviar eventos Zigbee à internet.
-- Desenvolver um painel de monitoramento remoto.
-
 ### 💡 ESP32-C6: Zigbee e Wi-Fi
 
 Uma característica interessante do ESP32-C6 é possuir conectividade IEEE 802.15.4, utilizada pelo Zigbee, além de Wi-Fi 6 e Bluetooth Low Energy.
