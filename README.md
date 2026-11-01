@@ -192,6 +192,26 @@ A proposta é desenvolver projetos passo a passo, compartilhando experiências, 
 ## 🎬 Vídeo demonstrativo do projeto
 
 
+## 🎬 Vídeo demonstrativo do projeto
+
+Clique na imagem para assistir ao vídeo completo no YouTube.
+
+<p align="center">
+  <a href="https://youtu.be/QshWmU9XEK8" target="_blank">
+    <img src="imagens/alarme-zigbee-esp32-h2-esp32-c6-sensor-mc38a.PNG"
+         alt="Assistir ao projeto Alarme Zigbee RodRobot no YouTube"
+         width="800">
+  </a>
+</p>
+
+<p align="center">
+  ▶️ <a href="https://youtu.be/QshWmU9XEK8">
+    <strong>ASSISTA AO VÍDEO NO YOUTUBE</strong>
+  </a>
+</p>
+
+
+
 
 🌐 Blog: https://rodrobot.blogspot.com/
 
