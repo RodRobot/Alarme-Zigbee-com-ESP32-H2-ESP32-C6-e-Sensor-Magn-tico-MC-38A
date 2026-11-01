@@ -198,7 +198,7 @@ Clique na imagem para assistir ao vídeo completo no YouTube.
 
 <p align="center">
   <a href="https://youtu.be/QshWmU9XEK8" target="_blank">
-    <img src="imagens/alarme-zigbee-esp32-h2-esp32-c6-sensor-mc38a.PNG"
+    <img src="imagens/alarme-zigbee-esp32-h2-esp32-c6-sensor-mc38a.png"
          alt="Assistir ao projeto Alarme Zigbee RodRobot no YouTube"
          width="800">
   </a>
